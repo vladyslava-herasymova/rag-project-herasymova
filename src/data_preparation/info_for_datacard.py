@@ -2,7 +2,6 @@ import operator
 
 from datasets import load_from_disk
 import json
-from collections import Counter
 
 # ds = load_from_disk("D:/University/trsshi/filtered_dataset")
 # size_before_amount = 0
