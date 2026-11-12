@@ -1,0 +1,6 @@
+.vscode/
+rag/
+
+articles.csv
+articles_checked.jsonl
+articles_cleaned.jsonl
