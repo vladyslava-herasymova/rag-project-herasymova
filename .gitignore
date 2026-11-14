@@ -1,5 +1,6 @@
 .vscode/
 rag/
+chroma_data/
 
 articles.csv
 articles_checked.jsonl

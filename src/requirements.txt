@@ -1,2 +1,4 @@
 datasets
 unidecode
+sentence-transformers
+chromadb
