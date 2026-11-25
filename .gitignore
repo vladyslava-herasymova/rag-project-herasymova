@@ -1,6 +1,7 @@
 .vscode/
 rag/
 chroma_data/
+src/search/__pycache__
 
 articles.csv
 articles_checked.jsonl
